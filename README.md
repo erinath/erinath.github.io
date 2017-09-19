@@ -1,2 +1,2 @@
-# erinath.github.io
+# erinath.github.io/my-cv
 My CV
