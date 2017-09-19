@@ -1,0 +1,22 @@
+{
+  "name": "erinath.github.io",
+  "version": "1.0.0",
+  "description": "My Cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erinath/erinath.github.io.git"
+  },
+  "author": "Emil Lindblom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erinath/erinath.github.io/issues"
+  },
+  "homepage": "https://github.com/erinath/erinath.github.io#readme",
+  "devDependencies": {
+    "stylelint-config-standard": "^17.0.0"
+  }
+}
