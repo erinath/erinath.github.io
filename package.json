@@ -1,5 +1,5 @@
 {
-  "name": "erinath.github.io",
+  "name": "my-cv",
   "version": "1.0.0",
   "description": "My Cv",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erinath/erinath.github.io.git"
+    "url": "git+https://github.com/erinath/my-cv.git"
   },
   "author": "Emil Lindblom",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/erinath/erinath.github.io/issues"
   },
-  "homepage": "https://github.com/erinath/erinath.github.io#readme",
+  "homepage": "https://github.com/erinath/my-cv#readme",
   "devDependencies": {
     "stylelint-config-standard": "^17.0.0"
   }

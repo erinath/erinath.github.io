@@ -1,0 +1,139 @@
+.container {
+  margin: 0 auto;
+  max-width: 940px;
+  padding: 0 10px;
+}
+
+.header {
+  color: white;
+  background: url('../img/tree-sky.jpg') no-repeat center center;
+  background-size: cover;
+  height: 600px;
+  text-align: center;
+}
+
+.header h1 {
+  line-height: 50px;
+  font-size: 80px;
+  margin-top: 0;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+}
+
+.header .container {
+  position: relative;
+  top: 100px;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navigation-bar {
+  background: #000;
+  height: 80px;
+  width: 100%;
+}
+
+.navigation-bar ul {
+  height: 80px;
+  list-style: none;
+  margin: 0 auto;
+  padding: 10;
+}
+
+.navigation-bar ul li,
+a {
+  color: #fff;
+  display: inline-block;
+  height: 80px;
+  line-height: 80px;
+  list-style: none;
+  padding: 0 10px;
+  transition: background 0.9s;
+}
+
+.btn:hover,
+.navigation-bar ul li:hover {
+  background: #cb5d60;
+  cursor: pointer;
+  transition: background 0.9s;
+}
+
+.picture img {
+  top: 50px;
+  margin-right: 50px;
+  position: relative;
+  float: right;
+  border: 15px double black;
+}
+
+.about-me {
+  top: 50px;
+  right: auto;
+  position: relative;
+  margin-left: 50px;
+  padding: 20px;
+  width: 600px;
+  height: inherit;
+  border: 15px solid black;
+  box-sizing: border-box;
+}
+
+.skill-profile {
+  float: right;
+  position: relative;
+  margin-right: 50px;
+  padding-left: 20px;
+  width: 300px;
+  height: inherit;
+  border: 15px double #cb5d60;
+  box-sizing: border-box;
+}
+
+.employment-history {
+  top: 50px;
+  position: relative;
+  margin-left: 50px;
+  margin-top: 20px;
+  padding-left: 20px;
+  width: 600px;
+  height: inherit;
+  border: 15px double #cb5d60;
+  box-sizing: border-box;
+}
+
+.education-history {
+  right: auto;
+  top: 80px;
+  position: relative;
+  margin-left: 50px;
+  padding-left: 20px;
+  margin-bottom: 100px;
+  width: 600px;
+  height: inherit;
+  border: 15px double #cb5d60;
+  box-sizing: border-box;
+}
+
+.contact {
+  background: url('../img/starry.jpg') no-repeat center center;
+  background-size: cover;
+  color: white;
+  height: 200px;
+  text-align: right;
+}
+
+.contact .container {
+  position: relative;
+  top: 20px;
+}
+
+.footer {
+  margin: 0 auto;
+  background-color: black;
+  color: white;
+  text-align: right;
+}
